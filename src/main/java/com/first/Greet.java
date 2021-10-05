@@ -6,5 +6,6 @@ public class Greet {
 		for (int i = 1; i <= 10; i++) {
 			System.out.println("Hellllllllllo... " + i);
 		}
+		System.out.println("Hello Jenkins!")
 	}
 }
